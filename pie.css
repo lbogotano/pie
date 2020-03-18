@@ -1,0 +1,12 @@
+.pie{
+        margin: 0;
+        position: absolute;            
+        top: 50%;
+        left: 50%;
+        border-width: 200px;
+        border-style: dotted;
+        border-color: yellow green blue red;
+        border-radius: 50%;
+        transform: rotate(45deg);
+    }
+}
